@@ -1,0 +1,16 @@
+html{
+    height: 100%;
+}
+
+body{
+    background: url("hero-bg.jpg") top center;
+}
+
+.ct{
+    width: 550px;
+    margin: 100px;
+}
+
+h2{
+    background: rgba(0,0,0,0.6);
+}
